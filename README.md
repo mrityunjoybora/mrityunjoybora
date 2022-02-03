@@ -2,7 +2,7 @@
 
 ### Hi there, I'm MJ! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">
 
-I'm a self-taught developer passionate about SaaS startups and JavaScript, transitioning marketing into tech.
+I'm a self-taught developer passionate about SaaS startups and JavaScript, transitioning from marketing into tech.
 
 ## Technologies and Tools
 
