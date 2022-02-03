@@ -1,6 +1,8 @@
-### Hi there, I'm MJ. <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">
+![](https://github.com/mrityunjoybora/mrityunjoybora/blob/0f689115a8ef4479dfb122ce77d498d36bfe904c/Hi%20there,%20I'm%20MJ.%20(1).gif)
 
-I'm a self-taught developer passionate about SaaS startups and JavaScript, currently transitioning marketing into tech.
+### Hi there, I'm MJ! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">
+
+I'm a self-taught developer passionate about SaaS startups and JavaScript,transitioning marketing into tech.
 
 ## Technologies and Tools
 
@@ -155,15 +157,14 @@ I'm a self-taught developer passionate about SaaS startups and JavaScript, curre
 
 ## Connect with me
 
-<a href="https://twitter.com/imrityunjoybora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrityunjoybora" height="30" width="40" /></a>
+<p align="left"><a href="https://twitter.com/imrityunjoybora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrityunjoybora" height="30" width="40" /></a>
 &nbsp;<a href="https://linkedin.com/in/full-stack-software-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="full-stack-software-developer" height="30" width="40" /></a>
 </p>
 
 ## GitHub Stats
 NOTE: This does not indicate my skill level or language proficiency, it's a GitHub metric of which languages I have the most code of on GitHub.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrityunjoybora&show_icons=true&locale=en" alt="mrityunjoybora" /></p>
-
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjoybora&show_icons=true&locale=en&layout=compact" alt="mrityunjoybora" /></p>
+|<img align="centre" src="https://github-readme-stats.vercel.app/api?username=mrityunjoybora&show_icons=true&locale=en" alt="mrityunjoybora" />|<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjoybora&show_icons=true&locale=en&layout=compact" alt="mrityunjoybora" />|
+| ------------- | ------------- |
 
 <!--
 **mrityunjoybora/mrityunjoybora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
