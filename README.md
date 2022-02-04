@@ -278,6 +278,11 @@ NOTE: This does not indicate my skill level or language proficiency, it's a GitH
 |<img align="centre" src="https://github-readme-stats.vercel.app/api?username=mrityunjoybora&show_icons=true&locale=en" alt="mrityunjoybora" />|<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjoybora&show_icons=true&locale=en&layout=compact" alt="mrityunjoybora" />|
 | ------------- | ------------- |
 
+## Random Dev Jokes for you! 😃
+<p align="centre"><img align="centre" src="https://readme-jokes.vercel.app/api?hideBorder&theme=algolia" alt="Random Jokes" /></p>
+
+##### Thank you for visiting. Have a nice day! 🙏
+
 <!--
 **mrityunjoybora/mrityunjoybora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
