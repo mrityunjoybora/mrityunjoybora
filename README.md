@@ -155,6 +155,10 @@ I'm a self-taught developer passionate about SaaS startups and JavaScript, trans
     />
 </a></p>
 
+## Projects I am currently working on
+
+[![mrityunjoybora/social-media-app - GitHub](https://gh-card.dev/repos/mrityunjoybora/social-media-app.svg)](https://github.com/mrityunjoybora/social-media-app)
+
 ## What I am currently learning/improving on
 
 <p align="left">
