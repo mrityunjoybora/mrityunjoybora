@@ -4,6 +4,8 @@
 
 I'm a self-taught developer passionate about SaaS startups and JavaScript, transitioning from marketing into tech.
 
+Currently learning JavaScript, React, and Node.js.
+
 ## Technologies and Tools
 
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
