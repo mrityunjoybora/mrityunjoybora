@@ -24,9 +24,17 @@ Currently learning JavaScript, React, and Node.js.
       height="40"
     />
 </a>
-&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="materialui"
+      width="40"
+      height="40"
+    />
+</a>
+&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://mui.com/static/logo.png"
       alt="tailwind"
       width="40"
       height="40"
@@ -209,18 +217,18 @@ Currently learning JavaScript, React, and Node.js.
       height="40"
     />
 </a>
-&nbsp;<a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-</a>
 &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+</a>
+&nbsp;<a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
       width="40"
       height="40"
     />
