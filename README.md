@@ -24,7 +24,7 @@ Currently learning JavaScript, React, and Node.js.
       height="40"
     />
 </a>
-&nbsp;<a href="https://mui.com/" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="materialui"
@@ -32,7 +32,7 @@ Currently learning JavaScript, React, and Node.js.
       height="40"
     />
 </a>
-&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img
       src="https://mui.com/static/logo.png"
       alt="tailwind"
@@ -199,8 +199,8 @@ Currently learning JavaScript, React, and Node.js.
 </a>
 &nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://mui.com/static/logo.png"
-      alt="tailwind"
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="materialui"
       width="40"
       height="40"
     />
