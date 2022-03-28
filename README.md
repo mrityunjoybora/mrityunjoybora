@@ -48,10 +48,10 @@ Currently learning JavaScript, React, and Node.js.
       height="40"
     />
 </a>
-&nbsp;<a href="https://graphql.org" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
       width="40"
       height="40"
     />
@@ -258,10 +258,10 @@ Currently learning JavaScript, React, and Node.js.
       height="40"
     />
 </a>
-&nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
       width="40"
       height="40"
     />
