@@ -219,20 +219,19 @@ I'm a full stack JavaScript developer passionate about SaaS startups and JavaScr
       height="40"
     />
 </a>
+&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+    alt="postgresql"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 ## What I am interested in learning at some point
 
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-</a>
-&nbsp;<a href="https://redis.io" target="_blank" rel="noreferrer">
+<a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis"
