@@ -103,14 +103,6 @@ I'm a full stack JavaScript developer passionate about SaaS startups and JavaScr
       height="40"
     />
 </a>
-&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-</a>
 </p>  
 
 <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
