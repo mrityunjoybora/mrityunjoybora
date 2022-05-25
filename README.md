@@ -166,7 +166,7 @@ I'm a full stack JavaScript developer passionate about SaaS startups and JavaScr
 
 ## Projects I am currently working on
 
-[![mrityunjoybora/social-media-app - GitHub](https://gh-card.dev/repos/mrityunjoybora/social-media-app.svg)](https://github.com/mrityunjoybora/social-media-app)
+[![mrityunjoybora/social-media-mvp-2 - GitHub](https://gh-card.dev/repos/mrityunjoybora/social-media-mvp-2.svg)](https://github.com/mrityunjoybora/social-media-mvp-2)
 
 ## What I am currently learning/improving on
 
