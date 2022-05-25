@@ -24,7 +24,7 @@ I'm a full stack JavaScript developer passionate about SaaS startups and JavaScr
 </a>
 &nbsp;<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
     <img
-      src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg)"
+      src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
       alt="redux"
       width="40"
       height="40"
